@@ -1,0 +1,918 @@
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.
+[Meeting: Radical Asia weekly pipeline · 2026-05-13 · 35 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia), Priya Krishnan (Radical Asia)]
+
+Karan: Good morning team. Let's start with the pipeline. Sophia, I think
+you have something from the Jakarta side?
+
+Sophia: Yes, two strong concepts this week. The one I want to focus on is
+a B2B SaaS for cold-chain logistics in Indonesia. Founder is Adi Pratama,
+ex-Gojek operator. The market is underserved — Indonesia loses an estimated
+30% of fresh agricultural output to cold-chain failures every year.
+
+Karan: 30% — that's an extraordinary number. What's the wedge?
+
+Sophia: Real-time temperature monitoring with predictive failure alerts.
+They're already piloting with three large agribusiness customers. The
+interesting part is the AI angle — the predictive model is trained on
+Indonesian-specific climate data and infrastructure conditions. Nobody
+else has that dataset.
+
+Alina: That's a perfect Global South AI thesis. Adapting models to local
+conditions, not deploying Silicon Valley AI in a context it wasn't built
+for.
+
+Sophia: Exactly. Adi is fundraising at Pre-Seed, looking for $500K. Our
+typical Radical Asia check is around $200K, so we'd be looking at
+A-Typical Ventures or a strategic partner to co-lead.
+
+Karan: If Adi will do six months of Co-Build with us, we can compress his
+time to Series A meaningfully. The 47-day benchmark — that's the exact
+use case.
+
+Priya: One concern. Cold-chain is capital-intensive. Hardware or pure
+software?
+
+Sophia: Pure software. They sell into customers with existing hardware.
+Their go-to-market is partnering with hardware vendors rather than
+building sensors.
+
+Alina: That's the right move. Software-only keeps the unit economics
+clean.
+
+Karan: Let's get Adi on a discovery call next week. Alina, run it with
+Sophia present?
+
+Alina: Yes. I'll send him the M1 onboarding pre-read so he understands
+what Co-Build actually means before the call. Half the prospective
+fellows don't realize how intense the first 30 days are.
+
+Karan: That's a good filter. Sophia, what else?
+
+Sophia: Quick update on Naufal Hadi, the Singapore fintech fellow. Day
+18 of M1, all G0 items green except QDB housing, which is on ops. Product
+progress is ahead — five customer discovery calls done, two design
+partners locked.
+
+Karan: That's the speed we want. Let's flag the housing item to ops
+today, I don't want it bleeding into G0 review Monday.
+
+Alina: I'll Slack the ops team. And Sophia, on the press front — we got
+an inbound from a Nikkei Asia reporter writing a piece on AI venture
+studios in the Global South. She specifically asked about A-Typical
+Ventures and Radical Asia.
+
+Sophia: What's the angle?
+
+Alina: Why traditional VC is failing in emerging markets and whether the
+studio model is the answer. Her deadline is next Friday.
+
+Karan: We should give her one specific story rather than a portfolio
+overview. Reporters do better with a single narrative than a generic
+studio pitch. Naufal would be obvious, but his product hasn't launched
+yet.
+
+Alina: What about the 47-day benchmark? Three consecutive fellows from
+concept to incorporated, half the industry standard, made possible by
+the M1–M4 stack and the Sytronix compute partnership.
+
+Priya: That's stronger than a single fellow profile. It's a data point
+with implications.
+
+Karan: Agreed. Alina, put together a one-pager — velocity number,
+M1–M4 explanation, Sytronix angle. Loop me before you send it back to
+the journalist.
+
+Alina: Ready by Thursday. Her name is Akiko Tanaka. I'll send you her
+LinkedIn so we can check her recent writing.
+
+Karan: Good. Sophia, last thing — the M9 Operations skill pack we
+shipped to the public repo last week, any uptake from your portfolio?
+
+Sophia: Two of our pre-seed companies installed it within 48 hours.
+The NPS tracking skill is the one they're using most. I told you that
+was the gap.
+
+Karan: You called it. We're building proprietary versions of the gap-map
+skills next quarter. NPS for M9 and MENA legal for M4. Both
+jurisdiction-specific.
+
+Alina: I'll add those to the Q3 OKRs.
+
+Karan: Alright. Same time next week. Sophia, Priya, thank you. Adi
+discovery call lands Tuesday or Wednesday.

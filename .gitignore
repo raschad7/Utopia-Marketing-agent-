@@ -1,0 +1,19 @@
+# Secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime outputs (keep the folder, drop the files)
+outputs/*.txt
+outputs/*.json
+!outputs/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
