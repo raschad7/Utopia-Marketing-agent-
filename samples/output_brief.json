@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "meeting_title": "QFC Authority quarterly partnership sync",
+    "meeting_date": "2026-05-19",
+    "attendees": [
+      "Karan Pinto",
+      "Alina Truhina",
+      "Hassan Al-Ansari",
+      "Sara Al-Naimi"
+    ],
+    "transcript_source": "file:loom_demo_qfc_milestone.txt",
+    "generated_at": "2026-05-16T22:26:28.883499+00:00",
+    "agent_version": "launch-brief-v0.2"
+  },
+  "meeting_summary": {
+    "tldr": "Discussion on Naufal Hadi's contract with QNB, QFC introductions for fellows, and a potential press interview with Gulf Times.",
+    "topics_discussed": [
+      "Naufal Hadi's 480,000 USD annual contract with Qatar National Bank",
+      "Potential press interview with Gulf Times on Doha's fintech infrastructure",
+      "QFC introductions for four active fellows targeting GCC enterprise customers",
+      "Renewal of the QFC-Utopia partnership with increased introduction quotas"
+    ],
+    "decisions_made": [
+      "QNB contract announcement scheduled for the week of June 9th",
+      "Rana Al-Kuwari's press interview to include Utopia's input",
+      "Renewal of QFC partnership for another year with increased quota"
+    ],
+    "action_items": [
+      {
+        "owner": "Hassan Al-Ansari",
+        "task": "Draft four pipeline briefs and joint announcement copy",
+        "due": "Monday and Wednesday respectively"
+      },
+      {
+        "owner": "Alina Truhina",
+        "task": "Take the lead on the interview with Rana Al-Kuwari",
+        "due": "Today"
+      },
+      {
+        "owner": "Karan Pinto",
+        "task": "Review and respond to the QFC renewal by Friday",
+        "due": "Friday"
+      },
+      {
+        "owner": "Sara Al-Naimi",
+        "task": "Send QFC quarterly report inclusion proposal and renewal term sheet",
+        "due": "Tonight"
+      }
+    ]
+  },
+  "key_moments": [
+    {
+      "quote": "480,000 USD annual contract, three-year term, with an automatic renewal clause.",
+      "speaker": "Alina Truhina",
+      "why_it_matters": "A significant enterprise contract win for a studio-backed fintech fellow, validating the QFC partnership."
+    },
+    {
+      "quote": "The QFC-Utopia partnership produced its first enterprise customer win in eighteen months.",
+      "speaker": "Karan Pinto",
+      "why_it_matters": "Highlights the success of the partnership in accelerating time-to-market for AI-native ventures."
+    },
+    {
+      "quote": "The QFC has decided to extend the partnership for another twelve months.",
+      "speaker": "Sara Al-Naimi",
+      "why_it_matters": "Confirms ongoing support and an increased introduction quota, strengthening the studio's network."
+    }
+  ],
+  "outputs": {
+    "linkedin": {
+      "text": "The QFC-Utopia partnership has accelerated our fintech fellow, Tahweel, to secure a 480,000 USD annual contract with Qatar National Bank. This first enterprise customer win happened in just eighteen months. The collaboration with QFC has halved the time-to-first-enterprise-customer. #fintech #gcc",
+      "launch_stage": "Amplify",
+      "hashtags": [
+        "fintech",
+        "gcc"
+      ],
+      "reasoning": "Highlights the success of the QFC partnership in securing significant contracts quickly."
+    },
+    "follow_up_email": {
+      "to_name": "Sara Al-Naimi",
+      "to_email": null,
+      "alternate_recipients": [
+        {
+          "name": "Hassan Al-Ansari",
+          "reasoning": "If the focus shifts to legal templates and documentation, Hassan would be more relevant."
+        }
+      ],
+      "subject": "QFC Partnership Renewal and Press Interview",
+      "body": "Sara,\n\nThank you for today's meeting and the early renewal commitment. We're aligned on the press interview with Rana Al-Kuwari and will prepare accordingly. Looking forward to the term sheet and finalizing the renewal details.\n\nBest,\nKaran",
+      "launch_stage": "Nurture",
+      "reasoning": "Acknowledges the renewal and press interview, reinforcing continued collaboration."
+    },
+    "press_angle": {
+      "headline": "QFC-Utopia partnership accelerates fintech innovation in the GCC with a major enterprise win.",
+      "target_publication_type": "regional tech press",
+      "supporting_points": [
+        "Tahweel, a studio-backed fintech fellow, secured a 480,000 USD annual contract with QNB.",
+        "The partnership compressed time-to-first-enterprise-customer by half.",
+        "QFC's network and regulatory clarity facilitated the rapid contract win."
+      ],
+      "launch_stage": "Convert",
+      "reasoning": "Strong regional angle with concrete numbers and partnership success, suitable for tech press."
+    }
+  },
+  "review_checklist": [
+    "Verify Naufal Hadi's contract details and permissions before public announcement.",
+    "Confirm Sara Al-Naimi's preferred contact method for follow-up emails.",
+    "Ensure all press content has been approved by QNB's comms team."
+  ],
+  "meeting_assessment": {
+    "is_publishable": true,
+    "reasoning": "The meeting included a concrete metric of a 480,000 USD annual contract with a new enterprise customer, which is a significant achievement worth publicizing."
+  }
+}

@@ -1,0 +1,110 @@
+[Meeting: MENA legal pack — open source roadmap · 2026-05-17 · 43 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Hassan Al-Ansari (Utopia Studio — MENA Legal Lead), Noura Al-Maktoum (DIFC FinTech Hive — advisor)]
+
+Hassan: Sabah al-khair, Noura. Karan, Alina, good morning. Apologies — I was on a call with the Bahrain counsel that ran over.
+
+Noura: Sabah al-noor, Hassan. How is the family? Maryam said the baby is keeping you up.
+
+Hassan: Wallahi, three weeks of two-hour sleep cycles. But alhamdulillah, she is healthy. That's all that matters.
+
+Noura: Mabrouk again. Send my love to your wife.
+
+Hassan: I will. Karan, shall we get started? I know your time is tight today.
+
+Karan: Yes please. Hassan, walk us through the MENA legal pack. Where are we as of this week?
+
+Hassan: Yaani, the core is done. Qatar, UAE, and Saudi — we have the company formation flows for each, the standard SAFE and convertible notes templates adapted for each jurisdiction, and the IP assignment language reviewed by local counsel in each market. Qatar was reviewed by Sultan Al-Abdulghani's office. UAE by Al Tamimi. Saudi by the Khoshaim & Associates team in Riyadh. Kuwait and Bahrain are next on the roadmap, but I want to get the first three working solidly before adding more jurisdictions.
+
+Noura: Hassan, the UAE piece — are you covering DIFC and ADGM separately? Because the common law overlay changes everything for a SAFE.
+
+Hassan: Yes, separate templates. DIFC, ADGM, and mainland UAE are three different products inside our pack. We learned this the hard way. Wallahi, we tried to combine them in v0.1 — one set of templates with conditional language depending on the jurisdiction — and it was a disaster. Founders were copying the wrong template for their setup and signing the wrong jurisdiction. We had two fellows in February who signed DIFC-formatted SAFEs while incorporated on the mainland. Sultan caught it. We had to redo both rounds.
+
+Alina: That's the kind of jurisdictional specificity that makes this defensible. The Silicon Valley template economy doesn't translate here. A YC SAFE doesn't survive contact with a DIFC court.
+
+Noura: It doesn't survive contact with DIFC counsel either. The Most Favored Nation clauses in the standard YC SAFE conflict with DIFC partnership law in three places. I've watched founders try to use them and lose six weeks on remediation.
+
+Karan: Hassan, who's using the pack today?
+
+Hassan: Three of our active fellows. Two A-Typical fellows — Faisal and the Egyptian fellow — and one Radical Asia fellow, Naufal. Naufal's company is registered in DIFC because of the Singapore tax treaty, so he's on the DIFC template. Faisal is mainland Saudi. The Egyptian fellow is on the ADGM template because of the family investor situation.
+
+Alina: Three live fellows on three different templates. That's the validation right there.
+
+Hassan: And this is the part I wanted to bring to the meeting. Sheikha Reem at QDB asked me last Thursday if we would be willing to make the pack available to QDB's broader portfolio — about thirty companies, not Co-Build fellows, but they hit the same legal wall and currently pay regional firms eight thousand to fifteen thousand USD per company formation. She did not give me a formal ask, just a "would you consider it."
+
+Karan: That's interesting. What's the implied ask — open source, licensed, joint venture?
+
+Hassan: She did not specify. My read, based on the conversation, is she wants it free for QDB portfolio with attribution. Khalas, that is the kind of move that gives us reach without diluting the brand. It also gives QDB a portfolio benefit they can talk about, which strengthens our relationship for the next funding cycle.
+
+Noura: I would push it further. Open source it under MIT, the same model you used for the M9 ops skills. The brand value is not in the templates themselves. Anyone can copy a SAFE. The brand value is in the maintenance — the quarterly updates when DFSA changes a rule, when SAMA issues new guidance, when ADGM amends a partnership statute. Nobody else maintains it. That's where the moat is.
+
+Alina: That is the strategic frame. We are not selling templates. We are selling the maintenance contract that nobody sees but everybody depends on. The M9 pack proved the model — two of Sophia's portfolio companies installed it within forty-eight hours of release and now check our repo monthly for updates.
+
+Karan: The M9 comparison is the right one. Hassan, what was the actual cost of building the pack to date? Time and external counsel fees.
+
+Hassan: Roughly fourteen weeks of my time spread over four months, plus about thirty thousand USD in external counsel review fees across the three jurisdictions. Sultan's office gave us a discounted rate because of the relationship. Al Tamimi was at market. Khoshaim was somewhere in between.
+
+Karan: And the maintenance burden going forward? If we open source it and it goes to thirty more companies, what's the support cost?
+
+Hassan: With one part-time hire, I can manage it. I'd want someone with two to three years of corporate experience at a regional firm. Inshallah I can find someone by August — there are a few candidates I've been informally talking to.
+
+Noura: I have two names if you want introductions. Both junior associates at Bahraini firms who are looking for venture exposure.
+
+Hassan: Yes, please. Send me the names today.
+
+Noura: Will do.
+
+Karan: Hassan, do you have capacity to maintain it if it goes to thirty more companies and also expand to Kuwait and Bahrain in parallel?
+
+Hassan: Honestly, no. Not with one part-time hire. If we go open source plus expansion, I need one full-time mid-level associate, not part-time. And the budget needs to cover the Kuwait and Bahrain counsel review fees, which will be another twenty to twenty-five thousand USD combined.
+
+Karan: So we are looking at roughly one hundred fifty thousand USD annual budget for legal pack — one full-time hire, ongoing counsel retainers, your time, plus a small marketing budget for the open source launch.
+
+Hassan: Yes, that's a fair estimate. Maybe one hundred sixty thousand if we account for the launch event.
+
+Karan: Alina, can you frame this for the Q3 OKRs — open sourcing MENA legal as a brand and distribution play, with the budget request?
+
+Alina: Done. I'll draft the OKR doc this week. It pairs cleanly with the M9 ops pack story we already shipped. Same playbook, different vertical. The OKR frame would be — distribution reach, brand authority in regional legal community, and a long-term path to converting open source users into Co-Build fellows.
+
+Noura: One more thing, and this is important. If you do open source it, the launch needs a regional anchor. A specific founder story, a specific saved-hours number, a specific jurisdictional unlock. Not a generic announcement. The pattern of "we are open sourcing our legal pack" lands flat because everyone says they're open sourcing things now. The pattern of "this founder shipped a DIFC incorporation in eleven days instead of six weeks because of these templates" — that travels.
+
+Karan: Agreed. Hassan, pick the strongest fellow story before the launch. Saved hours, jurisdictional headache avoided, in their own words. Concrete numbers, named jurisdiction, named timeline.
+
+Hassan: I have three candidates. Faisal's Saudi mainland incorporation — we did it in nineteen days against a regional average of fifty-five. Naufal's DIFC registration — fifteen days against an average of forty. And the Egyptian fellow's ADGM formation — twenty-two days against an average of sixty. All three have given verbal permission to be referenced. Naufal's is probably the strongest because DIFC is the most internationally recognized jurisdiction and the time savings are the most dramatic.
+
+Alina: Naufal also has the better narrative arc. He's the Singaporean fintech fellow who came to the studio specifically because of the regional regulatory complexity. Using him as the anchor connects the legal pack story to the broader thesis of why a regional venture studio matters.
+
+Karan: Good. Hassan, get written permission from Naufal before we draft anything. Verbal is not enough for the press version.
+
+Hassan: I'll get it this week.
+
+Noura: When are you targeting for the launch?
+
+Karan: Alina, what's realistic?
+
+Alina: If we want to align with the marketing calendar, late July is the right window. Before that we have the Sytronix sovereign clause announcement in early June and the QDB Q2 board pack in mid-July. Late July gives us a clean week.
+
+Karan: Late July it is. Hassan, working backwards — pack finalized for launch by mid-July, Naufal permission and case study drafted by end of June, OKR sign-off by end of May, hire identified by end of June. Workable?
+
+Hassan: Workable. Tight on the hire, but workable.
+
+Noura: I'll send you the two Bahraini names today. That should accelerate the hire timeline.
+
+Hassan: Shukran, Noura.
+
+Karan: One last item — Noura, on the DIFC side, would the FinTech Hive want to be a launch partner? Not a co-announcement necessarily, but a quote in the press release, an event slot, something to give it institutional weight in the UAE?
+
+Noura: Yes, almost certainly. Let me sound out the leadership and come back next week. The likely answer is a joint event at the DIFC Innovation Hub in early August, two weeks after the launch, where we host a panel on regional legal infrastructure for founders.
+
+Karan: Perfect. That extends the news cycle by two weeks.
+
+Alina: I'll loop in our events team to scope the joint event in parallel.
+
+Karan: Good meeting. Khalas, same time next month. Hassan, get some sleep tonight if the baby allows. Noura, thank you for making the time.
+
+Noura: Always. Take care all.
+
+Hassan: Ma'a as-salama.
+
+Karan: Ma'a as-salama.
+
+Alina: Bye everyone.

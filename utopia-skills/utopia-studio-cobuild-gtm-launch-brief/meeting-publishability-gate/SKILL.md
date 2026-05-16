@@ -31,7 +31,8 @@ A meeting is NOT publishable if it is:
 1. Extract basic metadata from the transcript header (title, date, attendees)
 2. Decide `is_publishable` (true/false) based on the criteria
 3. Provide one-sentence reasoning
-4. Return JSON only — no prose outside the JSON
+4. Produce a one-sentence factual TL;DR of the meeting (regardless of publishability — downstream agents and the marketing team use it for context)
+5. Return JSON only — no prose outside the JSON
 
 # Output format
 
@@ -40,7 +41,8 @@ A meeting is NOT publishable if it is:
   "meeting_date": "YYYY-MM-DD — from header or inferred",
   "attendees": ["array of names from header"],
   "is_publishable": true,
-  "reasoning": "one sentence — what makes this publishable (or not)"
+  "reasoning": "one sentence — what makes this publishable (or not)",
+  "summary_tldr": "one factual sentence describing what the meeting was about and what happened"
 }
 
 # Hard rules

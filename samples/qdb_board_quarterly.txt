@@ -1,0 +1,140 @@
+[Meeting: QDB quarterly board update · 2026-05-19 · 52 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Mohammed Al-Emadi (QDB), Sheikha Reem Al-Thani (QDB)]
+
+Mohammed: Sabah al-khair, everyone. Karan, can you hear us? The line was a little soft on our end earlier.
+
+Karan: Sabah al-noor, Mohammed. Better now?
+
+Mohammed: Yes, perfect. Sheikha Reem is just settling in — she came from a session at the Diwan.
+
+Sheikha Reem: Apologies for the delay. The traffic on Al Corniche this morning was something else. There's an event at the Museum of Islamic Art, half the road was closed. Karan, Alina, good to see you both.
+
+Alina: Good morning, Sheikha. How was the Diwan session?
+
+Sheikha Reem: Long. Three hours on a tourism portfolio question. I'll spare you the details. Shall we get to it?
+
+Mohammed: Yes. We have you for fifty minutes. I want to cover four things — Q1 headline numbers, pipeline conversion, the Sytronix renewal, and one informal item at the end. Karan, lead the numbers please.
+
+Karan: Right. End of Q1 — nine active fellows across the cohort. Three are at M5 or later, two are at M7 in active GTM, and the remaining four are between M2 and M4. We've shipped two LOIs from QDB-introduced customers in the last six weeks — one from QFC, one from the Ministry of Transport pilot. And the 47-day concept-to-incorporated benchmark held across the three most recent cohort starts.
+
+Sheikha Reem: Mashallah. Before you go further — the 47-day figure. The board paper from last quarter cited 90 days as the regional median. Has anyone challenged the number independently? Because the chairman will ask.
+
+Karan: One auditor from Boston Consulting raised it in their MENA venture-studio benchmark research. We sent them the underlying Linear timestamps, the M1 through M4 template comparison, and three founder interviews. They published it as a verified data point in their April report. It's external attribution now.
+
+Mohammed: That's the line I want in the next board pack. The independent verification. It travels better in the room than our own framing. Sheikha, agreed?
+
+Sheikha Reem: Agreed. Karan, can you send me the BCG page reference and the April publication date by Thursday? I need it for the pre-brief with the chairman.
+
+Karan: Done. I'll send it today after this call ends.
+
+Sheikha Reem: Good. Continue.
+
+Karan: On the LOI side — the QFC fintech pilot converted to a paid 90-day contract at 45,000 USD. The Ministry of Transport one is still LOI stage, but we expect a paid pilot by end of June. The fellow on that one is the logistics SaaS company — they're working with the ports authority on container tracking.
+
+Mohammed: Which fellow is that exactly, just so I have it right?
+
+Karan: Faisal's company. The Riyadh-based one. Founder is Faisal Al-Otaibi, ex-Aramco operations.
+
+Mohammed: Yes, I remember. He presented at our December event. Continue.
+
+Karan: Sytronix-wise — and we'll come back to this in detail — we've stabilized compute costs at 0.18 USD per inference-hour, compared to the AWS spot rate of 0.43 USD. That's a 58% reduction across the active fellows. Three of our M5+ fellows would not have unit economics that work without it.
+
+Alina: To put that in context — if you take the most compute-heavy fellow, the agriculture imaging company, their COGS would be roughly 40% higher on AWS. They'd be cash-negative through Series A. With Sytronix, they're cash-positive at month 14.
+
+Sheikha Reem: That's the kind of comparison number I need. Alina, can you put that in a single slide for the chairman pack?
+
+Alina: Already in the deck draft. I'll share it with you Thursday alongside Karan's BCG reference.
+
+Mohammed: Good. Karan, on the pipeline conversion question — what's the ratio from M2 discovery to G2 across the active cohort?
+
+Karan: Seven of nine fellows have hit G2 within their target window of week 12 to 14. The two outliers are at week 18. One is the MedTech fellow — that's regulatory delay, MOH approval for their pilot study took longer than we modeled. The other is the B2B logistics fellow, which is a co-founder dispute we are working through privately.
+
+Mohammed: The co-founder dispute — is that the Riyadh fellow? Faisal's company?
+
+Karan: It's the other Riyadh fellow. Different company. I would rather not discuss the specifics in this meeting. There is a path. We expect resolution within two weeks.
+
+Mohammed: Understood. I respect that. As long as you're handling it, that's all I need to know today.
+
+Sheikha Reem: Khalas, move on. The MedTech regulatory delay — what's the contingency?
+
+Karan: Two-track. Track one is continuing to push the MOH approval — we've engaged a regulatory consultant who has handled three similar approvals in the past five years. Track two is pivoting the pilot to UAE, where the regulatory timeline is faster, while keeping the Qatar registration as the company HQ. We've already scoped the UAE option with DIFC counsel.
+
+Sheikha Reem: That's the right structure. UAE first for speed, Qatar for relationship. Mohammed, do you want me to make a call to the MOH contact?
+
+Mohammed: Yes please. The undersecretary, not the minister. Lower stakes if the answer is no, and easier to escalate later if we need to.
+
+Sheikha Reem: I'll set that up this week.
+
+Karan: Appreciate it. That unblocks the M7 timeline for that fellow if it lands.
+
+Sheikha Reem: One question on the pipeline — how many of the nine active fellows are Qatari versus regional versus international?
+
+Karan: Three Qatari, two Saudi, one Emirati, one Egyptian, one Singaporean — that's Naufal, the fintech fellow — and one Indonesian, who joined as part of the Radical Asia track. The Qatari ratio is exactly where we committed in the original QDB deck — one-third minimum.
+
+Mohammed: Good. The chairman will check that number. Send me the breakdown in writing too, for the pack.
+
+Karan: Will do.
+
+Sheikha Reem: Alright, Sytronix. This is the renewal item?
+
+Mohammed: Yes. Karan, you signed the renewal Sunday — can you walk us through the terms?
+
+Karan: Renewed for another twelve months. Same baseline pricing, but with two new clauses. First, a sovereign clause covering Saudi data residency — any inference on Saudi-customer data stays on Saudi-located GPUs. That was the unlock we'd been pushing for since November because four of our pipeline fellows target GCC government customers and can't ship without it.
+
+Mohammed: Excellent. That is a publishable milestone — the sovereign clause specifically. We've been asking Sytronix for that since QDB first introduced them.
+
+Karan: Second clause is a fellow-pricing tier. Sytronix agreed to a guaranteed 60% discount versus AWS list, for any Co-Build fellow, for the first 24 months of incorporation. That's portable — it travels with the fellow when they graduate, which is a big deal for fundraising conversations.
+
+Alina: To make the point concrete — when our M5 fellows pitch a Series A investor and the investor asks "what about compute costs at scale," we now hand over a contract that says 60% below AWS for two years. That changes the unit economics conversation in the investor meeting.
+
+Sheikha Reem: That should be in the board pack as well. Not just the sovereign clause. The portable pricing tier is the operator story.
+
+Karan: Agreed. We'll feature both.
+
+Mohammed: How long is the lock-in on the renewal?
+
+Karan: Twelve months on the studio side, but the fellow pricing tier survives termination — once a fellow is enrolled in the tier, they keep it even if we don't renew next year. That was the hardest term to negotiate. Sytronix initially wanted to tie fellow pricing to studio renewal, which would have given them leverage on us every year.
+
+Mohammed: Wise to push back on that. Sytronix's CEO — Tarek, yes? — did you negotiate with him directly?
+
+Karan: Tarek and his commercial lead. Four sessions over six weeks. The final term came from a call with Tarek and Alina at the Sheraton on Tuesday evening.
+
+Alina: Tarek wanted a public co-announcement of the sovereign clause. We told him we'd do it but only paired with a fellow story. He agreed. We've blocked publish for the week of June 2nd, after we've briefed the affected fellows.
+
+Sheikha Reem: Good. Mohammed, anything else on Sytronix from your side?
+
+Mohammed: No. The terms are strong. Karan, thank you for closing it before the renewal date — the gap risk was making me nervous.
+
+Karan: It was tight. The signature came in at 11pm Sunday.
+
+Sheikha Reem: Inshallah. Alright, what's the informal item?
+
+Mohammed: Yes. And this is informal, off the record, not for any external pack — we will need to discuss the transition out of one of your studio directors before the next QDB review. I don't want it in the deck. I want it internal first, between us. The chairman has not been briefed and shouldn't be until we have a clean plan.
+
+Karan: Understood. Alina and I will sit down with you and the QIA contact next week. Strictly internal. Mohammed, is this a timing question or a confidence question?
+
+Mohammed: Timing primarily. There's no confidence issue from our side. I'll explain more when we sit down.
+
+Karan: Okay. We'll wait for that conversation.
+
+Sheikha Reem: One thing I'll add before we close — the LinkedIn post your team ran on the Indonesia cold-chain thesis last week. Three of our QDB portfolio CEOs forwarded it to me unprompted. It is the kind of distinct voice we want more of from the studio.
+
+Alina: Appreciated. We've been pushing the marketing team to publish opinions rather than summaries. That post was the first one written under the new editorial guidelines.
+
+Sheikha Reem: It shows. Keep the cadence.
+
+Mohammed: Final question from me — when does Q2 reporting close? I want to align the next board pack timing.
+
+Karan: Q2 closes June 30. We'd present the next pack to QDB in the week of July 14, if that works for the chairman's calendar.
+
+Mohammed: I'll check with his office and confirm by Wednesday. Action items — Karan sends the BCG reference and the fellow nationality breakdown today. Alina sends the comparison slide and the renewal one-pager Thursday. Sheikha calls the MOH undersecretary this week. I confirm the July 14 board date by Wednesday. We schedule the internal director-transition conversation for next week separately.
+
+Karan: Confirmed on all four from our side.
+
+Sheikha Reem: Good meeting. Karan, give my regards to your wife — Alina mentioned the new baby last month.
+
+Karan: I will, thank you. Sheikha, safe drive back. Mohammed, see you next week.
+
+Mohammed: Inshallah. Ma'a as-salama.
+
+Karan: Ma'a as-salama.

@@ -1,0 +1,98 @@
+[Meeting: A-Typical Ventures weekly portfolio review · 2026-05-15 · 38 min]
+[Attendees: Karan Pinto (Utopia Studio), Yousef Al-Rasheed (A-Typical Ventures), Layla Bin Saeed (A-Typical Ventures)]
+
+Yousef: Karan, before we get into the pipeline — we need to talk about Tariq.
+
+Karan: I assumed when I saw your text last night. When did he tell you?
+
+Yousef: Thursday afternoon. He called me directly, didn't go through Layla, didn't put it in writing first. To his credit, he wanted to tell me himself before it got around. He's signed with Antler instead.
+
+Karan: How much was the cheque?
+
+Yousef: 500K against 7%. Roughly twice our offer and one percentage point less dilution. They also gave him a one-year payable advance against a future advisory pool, which is basically a salary subsidy. And no Co-Build commitment. He stays in Riyadh.
+
+Layla: The Riyadh piece is what tipped it, in my opinion. The money was a factor but he could have negotiated us up. The relocation was the hard no.
+
+Karan: Walk me through what he actually said. I want to understand his reasoning, not just the headline.
+
+Yousef: Three things, in order. First, he said the M1 two-week in-person requirement felt disproportionate for what he's building. His words — "I'm building a B2B sales tool. I don't need to be in a room with other founders for two weeks to figure out how to ship it." Second, his wife is pregnant — six months along. He doesn't want to be away from Riyadh for that period, even for two weeks, and the M2 through M5 cadence of one week every six weeks felt like a lot of trips. Third, he said — and this is the one that stung — he wasn't sure Co-Build would teach him things he couldn't learn faster by just shipping product to customers.
+
+Karan: The third one is the one that should sting. The first two are circumstantial. The third is structural.
+
+Yousef: I agree.
+
+Layla: To be fair to Tariq, he is not wrong. We tell every fellow the M1 in-person is non-negotiable, but the value of it is only obvious in retrospect. He's at week 4 of M2 and hasn't felt the compounding yet. Most fellows don't feel it until M3 or M4. By then he'd have been locked in.
+
+Karan: That's the honest read. We have now lost two fellows on the relocation gate in twelve months. One in November, one this week. Both senior operators, both with families, both choosing capital over operating support.
+
+Yousef: And it's worth noting — neither of them went to a worse outcome. The November fellow, Amira, went to Sequoia Surge. Tariq is going to Antler. They're not picking inferior alternatives. They're picking faster, lighter alternatives.
+
+Layla: That's the real question. We should consider a hybrid M1 for the right profile. Two weeks in Doha — one for the foundational onboarding — and then two weeks remote with structured daily check-ins. Monthly in-person check-ins after. The current rigid model is filtering out exactly the senior operator profile we want.
+
+Karan: I hear it. I'm not ready to commit to a policy change in this meeting. Let me think about it with Alina and bring a proposal to the next QDB review. The risk is — if we go hybrid, the on-site fellows feel like the standard is moving around them mid-cohort. Faisal, Naufal, the Egyptian fellow — they all relocated. We told them it was non-negotiable. If we suddenly say it's negotiable for the next cohort, what does that signal to them?
+
+Yousef: I think you can frame it differently. The rigid M1 is for fellows who need the operating immersion. The hybrid M1 is for senior operators who have already built companies and need different support — board readiness, fundraising mechanics, hiring at scale. Two products for two profiles.
+
+Karan: That's a more defensible frame. But it requires us to be willing to admit publicly that some fellows need different things than others. The current marketing line is "every fellow goes through the same Co-Build." That's been a strength.
+
+Layla: It's a strength when you're recruiting first-time founders. It's a weakness when you're recruiting senior operators. We need to decide which audience we're optimizing for.
+
+Karan: Or both. That's what Yousef is suggesting.
+
+Yousef: Yes. Both, with explicit tracks.
+
+Karan: Okay. Let me think. I'm not closing the door. Bring it back as a structured proposal at the June review. Layla, you draft it — what would the senior-operator track look like specifically, what M1 components stay mandatory, what becomes flexible, what's the cohort size. Don't try to solve everything, just make the case.
+
+Layla: I'll have a first draft by next Wednesday.
+
+Karan: Good. Pipeline. What else is on the table this week?
+
+Yousef: Two strong inbounds. One MENA legal-tech founder out of Cairo, name is Hossam El-Gendy. He sold his last company to Vodafone for an undisclosed amount, supposedly mid-eight figures. He's building a contract automation platform for MENA enterprise — Arabic-first, with English support as a layer. Targeting Egyptian and Saudi banks initially.
+
+Karan: Why us, why now?
+
+Yousef: He read the MENA legal pack open-source preview Hassan put out two weeks ago. He liked the jurisdictional thinking. He reached out directly through Hassan, not through a fund.
+
+Karan: That's the right kind of inbound. What's the round he's raising?
+
+Yousef: He hasn't started the round formally. He's at pre-product, has a prototype but no paying customers yet. He wants to start the round in September, after he has three paying pilots locked.
+
+Karan: Then we're not the right conversation today. He should come back when he has the pilots. But let's keep the relationship warm — Layla, book a thirty-minute introductory call, no investment intent yet, just to understand the timeline.
+
+Layla: Done. I'll reach out tomorrow.
+
+Yousef: Second inbound — Saudi B2B SaaS in compliance tooling. Founder is Khalid Al-Mutairi, ex-PIF, ex-Boston Consulting in their Riyadh office. He's been advising on Vision 2030 compliance frameworks for the past three years. He wants to build a SaaS layer on top of the new SAMA reporting requirements that come into force in January 2027.
+
+Karan: That's tightly specific. What's the market size?
+
+Yousef: Top of funnel, every regulated financial institution in Saudi — about 240 of them. Realistic addressable, the top 60. Pricing model is enterprise, six-figure annual contracts. So 60 customers times 150K average ARR is roughly 9 million USD addressable in Saudi alone. Expand to UAE and Kuwait, double that.
+
+Karan: And the timing — SAMA reporting requirements in January 2027 — that's eighteen months from now. He needs to ship product within twelve months to capture the buying cycle.
+
+Yousef: Yes. Aggressive timeline.
+
+Karan: I'll take this one. Layla, send me Khalid's deck and his calendar this week. I want to do the first call myself. If it's real, we move fast.
+
+Yousef: Done. I'll send everything tonight.
+
+Karan: On Tariq — let's keep this quiet. No social media, no portfolio updates, nothing in the weekly newsletter. Just remove him from the active list in Linear. If anyone asks externally, the line is "Tariq decided to pursue a different path." Nothing about Antler, nothing about the relocation gate, nothing about the cheque size. That's a strict no.
+
+Layla: Agreed. We should also brief Sophia at Radical — she was in the original pipeline call when we sourced him, and Radical might get questions from their LP network if anyone connects the dots.
+
+Karan: Yes, brief Sophia. I'll send her a private note this evening so she hears it from me directly. Don't put it in any Radical-A-Typical group channel.
+
+Yousef: Understood.
+
+Karan: One more thing before we wrap. The relocation question — the structural one, not the Tariq one — is the most important strategic conversation we'll have this quarter. We should not let it drop because we're embarrassed about losing him. I want it in the QDB review, in the partner review, and I want it discussed honestly. Not as "we lost a fellow," but as "we have to decide what kind of studio we are."
+
+Layla: I'll make sure the proposal frames it that way.
+
+Yousef: Good. Karan, anything else from your side?
+
+Karan: No. Same time next week. Layla, I'll watch for the proposal Wednesday. And the Khalid deck tonight if you can.
+
+Yousef: Done. Take care, Karan.
+
+Layla: Bye, Karan.
+
+Karan: Bye both.

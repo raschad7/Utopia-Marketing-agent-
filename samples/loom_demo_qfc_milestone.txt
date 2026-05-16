@@ -1,0 +1,82 @@
+[Meeting: QFC Authority quarterly partnership sync · 2026-05-19 · 40 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Hassan Al-Ansari (Utopia Studio — MENA Legal Lead), Sara Al-Naimi (Qatar Financial Centre Authority)]
+
+Sara: Sabah al-khair, everyone. Karan, I saw your team at the QFC innovation summit on Tuesday — strong showing.
+
+Karan: Sabah al-noor, Sara. Thank you. Hassan ran the legal-pack panel, it landed well.
+
+Hassan: Three QFC member companies asked about jurisdictional templates afterward. Two of them already use the MENA legal pack from our public repo. The reach is bigger than I realized.
+
+Sara: Mashallah. That's actually part of what I want to discuss later. But Karan, let's start with the headline news. Naufal's contract — congratulations.
+
+Karan: Thank you. It closed Sunday evening. Naufal called me from Singapore — he was at his sister's wedding, stepped out to sign the DocuSign.
+
+Alina: For context, Sara — Naufal Hadi is our Singaporean fintech fellow, currently in M5. His company is called Tahweel — AI-native payments rails for Southeast Asian remittance corridors into the GCC. Qatar National Bank just signed as their first enterprise customer. 480,000 USD annual contract, three-year term, with an automatic renewal clause.
+
+Sara: 480K is a strong landing number. That validates everything we built the partnership on.
+
+Karan: It does. And it's worth saying out loud — this happened because of the QFC introduction in February. Without that warm intro to QNB's innovation team, Naufal would have spent another six months building distribution from scratch. The partnership compressed his time-to-first-enterprise-customer by half.
+
+Sara: That's exactly the kind of result our chairman wants to see in the next QFC board meeting. Karan, are you comfortable if I include this in the QFC quarterly report? Public attribution.
+
+Karan: Yes, fully comfortable. Naufal has given written permission for the customer announcement, and QNB has approved their logo and the contract value. We're targeting a joint announcement the week of June 9th.
+
+Alina: We can also share the underlying playbook — the M4 sales pack, the QFC introduction format, the legal templates Hassan adapted for the QNB contract. That's reusable for the next five fellows in the pipeline.
+
+Sara: That's the second thing I want to talk about. The pipeline. How many of your current cohort are targeting GCC enterprise customers?
+
+Karan: Four of the nine active fellows. Two in fintech, one in agricultural tech, one in B2B compliance tooling. All four would benefit from QFC introductions to your member network.
+
+Sara: I can offer warm introductions for all four, but I'd need a one-page brief on each fellow — the product, the target customer profile inside our member companies, and the specific ask. Standard QFC introduction format.
+
+Hassan: I can draft those this week. Hand to Alina for approval, then to your team Monday.
+
+Sara: Perfect. The other thing — and this is the third item on my list — we got an inbound from a Gulf Times reporter, Rana Al-Kuwari, who's writing a piece on Qatar's fintech infrastructure for international payments. She specifically asked about the QFC-Utopia partnership and whether we'd be willing to do a joint interview.
+
+Karan: That's a good ask. What's her angle?
+
+Sara: Her hypothesis is that Doha is becoming a fintech infrastructure hub for the GCC because the regulatory layer, the funding layer, and the operator support are starting to compose. She wants three concrete examples to anchor the story. Naufal's QNB win would be one of them, if you're willing.
+
+Karan: We're willing. Alina, you ran the press conversation around the Sytronix sovereign clause — can you take the lead on Rana?
+
+Alina: Yes. I'll reach out to her this afternoon. What's her deadline?
+
+Sara: Next Friday. She wants the interview by Wednesday.
+
+Alina: Workable. I'll loop Naufal in — he should be on the call too. The founder voice will be stronger than the studio voice for this particular story.
+
+Hassan: One question on the joint announcement — what's the messaging line we're aligned on? The QFC version, the Utopia version, and the QNB version all need to say roughly the same thing.
+
+Karan: My version is — "The QFC-Utopia partnership produced its first enterprise customer win in eighteen months." Direct, factual, attributes correctly. Sara, does that work for QFC?
+
+Sara: Almost. I'd add — "validating the model of co-locating regulatory clarity with operator support for AI-native ventures." It frames the why for our board.
+
+Alina: I like that addition. We can use the longer version for the press, the shorter version for LinkedIn.
+
+Karan: Agreed. Hassan, write up both versions, run them by QNB's comms team for approval, and send to Sara by Wednesday.
+
+Hassan: Inshallah.
+
+Sara: One last thing. The QFC has decided to extend the partnership for another twelve months. The renewal paperwork is ready — Karan, I'll send you the term sheet this evening. Same structure as last year, but with a slight increase in the introduction quota — twenty member companies per quarter instead of fifteen.
+
+Karan: That's a meaningful upgrade. Thank you. Alina and I will review and respond by Friday.
+
+Sara: Khalas, that's everything from me. Any questions?
+
+Karan: No questions. This was a good meeting, Sara. Thank you for the early renewal commitment and the Rana introduction.
+
+Sara: My pleasure. Ma'a as-salama.
+
+Hassan: Ma'a as-salama.
+
+Alina: Bye Sara.
+
+Karan: Action items recap before we close — Hassan drafts four pipeline briefs by Monday and the joint announcement copy by Wednesday. Alina takes the Rana interview lead and reaches out today. I review and respond to the QFC renewal by Friday. Sara sends the QFC quarterly report inclusion proposal and the renewal term sheet tonight.
+
+Sara: All confirmed from my side.
+
+Alina: Confirmed.
+
+Hassan: Confirmed.
+
+Karan: Done. Same time next quarter, inshallah.

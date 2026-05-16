@@ -78,9 +78,9 @@ def create_linear_issue(press_angle: dict, meta: dict) -> tuple[str, str]:
     return issue["url"], issue["identifier"]
 
 
-def build_skip_blocks(meta: dict, assessment: dict) -> list:
+def build_skip_blocks(meta: dict, assessment: dict, summary: dict | None = None) -> list:
     """Slack blocks for a 'no publishable content' notice."""
-    return [
+    blocks = [
         {
             "type": "header",
             "text": {"type": "plain_text", "text": "⊘ Meeting skipped — no content drafted"},
@@ -100,6 +100,69 @@ def build_skip_blocks(meta: dict, assessment: dict) -> list:
             },
         },
     ]
+    if summary and summary.get("tldr"):
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*What happened:* {summary['tldr']}"},
+        })
+    return blocks
+
+
+def build_summary_blocks(summary: dict) -> list:
+    """Slack blocks for the meeting context section (above the drafts)."""
+    if not summary:
+        return []
+
+    tldr = summary.get("tldr", "")
+    topics = summary.get("topics_discussed", []) or []
+    decisions = summary.get("decisions_made", []) or []
+    actions = summary.get("action_items", []) or []
+
+    if not any([tldr, topics, decisions, actions]):
+        return []
+
+    blocks = [{
+        "type": "header",
+        "text": {"type": "plain_text", "text": "Meeting context"},
+    }]
+
+    if tldr:
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"_{tldr}_"},
+        })
+
+    if topics:
+        bullets = "\n".join(f"• {t}" for t in topics)
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*Topics discussed:*\n{bullets}"},
+        })
+
+    if decisions:
+        bullets = "\n".join(f"• {d}" for d in decisions)
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*Decisions:*\n{bullets}"},
+        })
+
+    if actions:
+        lines = []
+        for a in actions:
+            owner = a.get("owner", "?")
+            task = a.get("task", "")
+            due = a.get("due")
+            line = f"• *{owner}* — {task}"
+            if due:
+                line += f" _(due: {due})_"
+            lines.append(line)
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*Action items:*\n" + "\n".join(lines)},
+        })
+
+    blocks.append({"type": "divider"})
+    return blocks
 
 
 def build_brief_blocks(
@@ -112,6 +175,7 @@ def build_brief_blocks(
     meta = brief.get("meta", {})
     outputs = brief.get("outputs", {})
     assessment = brief.get("meeting_assessment", {})
+    summary = brief.get("meeting_summary", {}) or {}
 
     linkedin = outputs.get("linkedin", {}) or {}
     email = outputs.get("follow_up_email", {}) or {}
@@ -146,6 +210,9 @@ def build_brief_blocks(
         })
 
     blocks.append({"type": "divider"})
+
+    # Meeting summary (context section)
+    blocks.extend(build_summary_blocks(summary))
 
     # LinkedIn block
     if linkedin.get("text"):
@@ -265,7 +332,7 @@ def main() -> int:
     if not assessment.get("is_publishable", True):
         print("⊘ Meeting marked not publishable. Posting skip notice...", file=sys.stderr)
         try:
-            blocks = build_skip_blocks(meta, assessment)
+            blocks = build_skip_blocks(meta, assessment, brief.get("meeting_summary"))
             ts = post_to_slack(blocks, f"Meeting skipped: {meta.get('meeting_title', 'Untitled')}")
             print(f"✓ Skip notice posted (ts={ts})", file=sys.stderr)
             return 0

@@ -1,0 +1,122 @@
+[Meeting: Adi Pratama discovery call · 2026-05-20 · 47 min]
+[Attendees: Karan Pinto (Utopia Studio), Alina Truhina (Utopia Studio), Sophia Tan (Radical Asia — observing), Adi Pratama (Cold-Chain SaaS founder — prospective fellow, not yet signed)]
+
+Karan: Adi, can you hear us? Your video froze for a second.
+
+Adi: Yes, sorry, the internet in Jakarta this morning is — give me one moment, let me switch to my hotspot. Okay, much better.
+
+Sophia: Adi, while you're switching — Karan and Alina, I'm just observing today. Adi knows me already, I'll only jump in if there's a Radical Asia question.
+
+Karan: Understood. Adi, are you back?
+
+Adi: Yes, back. Apologies. There's construction on the floor below my apartment, the internet has been unstable all week.
+
+Alina: No worries at all. Adi, thanks for making the time. We have you for forty-five minutes. Sophia briefed us last week, but we wanted to hear the pitch directly. Start wherever you'd like — maybe a bit about your background, then the company.
+
+Adi: Sure. Background first. I'm from Surabaya originally, computer science at ITB, then I joined Gojek in 2017 when they were about 200 people. I spent four years there — first on the GoFood logistics platform, then on a new initiative we called GoFresh, which was a B2B fresh-produce delivery service to small restaurants. GoFresh shut down in 2022 — long story, mostly that the cold-chain wasn't ready and we were absorbing the losses. That's actually how I got obsessed with the cold-chain problem.
+
+Karan: Why did GoFresh shut down specifically? Was it demand or supply side?
+
+Adi: Honestly, supply. Restaurants wanted it. We could not deliver consistent product. We lost 38% of our inventory in the warehouse-to-restaurant leg, which is roughly twice what the operating model assumed. The cold-chain partners we worked with — three of the largest in Java — were operating sensors that were sometimes ten years old, with no predictive layer. By the time temperature alerts came in, the product was already spoiled.
+
+Alina: So you saw the problem from the demand side first.
+
+Adi: Yes. After GoFresh wound down, I spent six months consulting for two of the cold-chain operators, trying to understand if it was a hardware problem or a software problem. I concluded it was a software problem. The hardware exists. The data exists. Nobody has built the predictive layer because the major sensor vendors are Japanese and German, and their models don't account for Indonesian conditions — humidity spikes during monsoon, hours-long power cuts, port congestion that adds 18 hours to transit. Their models predict failures that don't happen and miss failures that do.
+
+Karan: So you built the predictive layer.
+
+Adi: Yes. We started in January 2024 — myself, two engineers from Gojek, and a data scientist from Tokopedia. We took a year to build the first model on a single agribusiness customer's data, with their permission. By December 2024 we had something that beat the incumbent prediction accuracy by 31 percentage points on the same data set. That's when we started commercial pilots.
+
+Alina: What's the company called?
+
+Adi: We call it SegarChain. Segar means fresh in Bahasa. Boring name, but the partners we work with remember it.
+
+Karan: Numbers. What's the current state.
+
+Adi: Three paying pilots — Sayuran Segar, Indofood Distribution, and a regional player called Cool Logistics Bali. ARR is currently 18,000 USD a month, growing 22% month over month. We started at 4,000 USD MRR in November 2025, hit 18,000 in April.
+
+Karan: 22% month over month — from what base, and is that net or gross?
+
+Adi: That's net of churn. We have not lost a pilot. Gross is the same as net so far, because no churn. From the 4,000 USD November base.
+
+Karan: Pricing model?
+
+Adi: Per facility per month. Roughly 2,000 USD per facility for the predictive monitoring, with discounts at multi-facility tiers. The three pilots cover nine facilities total across Java and Bali.
+
+Alina: Gross margin?
+
+Adi: Software only, so 84%. We don't own hardware. We integrate with existing sensor providers — three brands cover 90% of the Indonesian market — and we ingest their data through standard APIs.
+
+Karan: What's your sales motion right now? Inbound, outbound, partnerships?
+
+Adi: All three of the current pilots came through introductions from the agribusiness association in Java. I sit on their tech advisory board. The next twelve I'm targeting will be a mix — five from the association pipeline, four from a partnership with one of the sensor vendors who's bundling us into their renewal conversations, and three from outbound to large restaurant chains.
+
+Sophia: For context — Karan, Alina — the agribusiness association in Indonesia has about 400 members. The top 30 control roughly 60% of the volume. Adi has direct access to the top 30 through his board role.
+
+Karan: That's the distribution wedge then. Adi, what's the unfair advantage on the model side? Anyone can buy the same sensor data.
+
+Adi: The model. We trained it on 18 months of Indonesian-specific data — weather, road quality, port logistics, infrastructure outages, holiday patterns. A model trained on US or European cold-chain data fails here in about three weeks because the operating conditions are so different. We benchmarked this — we took an off-the-shelf cold-chain prediction model from a US vendor, ran it on our pilot customer's data for one month, and the false positive rate was 67%. Our model on the same data is 11%.
+
+Alina: How replicable is that? If a Singaporean or Vietnamese player wants to enter Indonesia, can they buy or build the same dataset?
+
+Adi: They can build it eventually. But they need at least twelve months of operating data from real Indonesian facilities, and they need partnerships with the sensor vendors to get the historical data. The sensor vendors don't share that data unless they trust you. I have those partnerships because of my agribusiness association role and because we worked with the same vendors when I was at Gojek. A new entrant — say, a Singapore-based startup — would need a Jakarta-based operator to broker those relationships, and it would take them eighteen to twenty-four months.
+
+Karan: Why us? You could raise a 500K seed from any Southeast Asia fund. Why a venture studio.
+
+Adi: I had three term sheets in March. East Ventures, AC Ventures, and a US-based fund I won't name. I turned them all down for the same reason — operator support was thin. They were all offering capital and introductions, nothing on building the actual company. I read your M9 Operations skill pack on the public repo about six weeks ago. The NPS tracking skill is the exact thing I needed to build internally next quarter. The M4 fundraising pack — the templates for Series A data rooms — is something I would otherwise spend two months building badly. If I can plug into a six-month Co-Build with people who have already thought this through, I get back twelve months of learning curve.
+
+Alina: That's the right reason for choosing a studio. Most founders come to us because they want the brand. You want the operating system.
+
+Adi: Yes.
+
+Karan: Tell me about your co-founders. Two engineers and a data scientist, you said. Are they full-time? Do they have skin in the game?
+
+Adi: Two engineers full-time, both with equity. Rina is CTO, was tech lead on GoFood logistics. Bayu is lead infrastructure, was at Tokopedia. The data scientist is a part-time advisor — she's still at Tokopedia, helping us four hours a week on the model, no equity yet but we expect to bring her on full-time when we close the next round.
+
+Karan: Okay. One question. If you joined Co-Build, would you be willing to move to Doha for the M1 onboarding? Two weeks minimum, in person, no remote option.
+
+Adi: Yes. I checked the visa requirements with the Indonesian consulate last month — Qatar offers visa-on-arrival for Indonesian passports, ninety-day stay, no work permit issues for short-term meetings. I can be in Doha for the full two weeks. My wife is supportive. We've discussed it.
+
+Alina: And after M1? You can return to Jakarta, but you'd need to be in Doha for one week every six weeks for the M2 through M5 check-ins. Is that doable for you and the team?
+
+Adi: Yes. We've talked about it as a leadership team. Rina would join me for the M1 onboarding actually, if that's allowed.
+
+Karan: One co-founder for M1 is allowed and encouraged. Good.
+
+Alina: Adi, walk me through the round structure you're targeting. What's the cheque, what's the dilution you're prepared for, what's the timeline.
+
+Adi: 500K USD pre-seed at 5 million post. So 10% dilution. I want to close within ninety days. The use of funds is straightforward — twelve months of runway, two additional engineering hires, one sales hire in Jakarta, and a budget for expanding to five new pilots in the first six months post-close.
+
+Karan: Our standard cohort check is 250,000 USD against 8% common. If we did a deal, we'd want to co-lead with a Southeast Asia fund — likely either East Ventures or a Radical Asia direct, depending on what makes sense for your cap table.
+
+Adi: That's workable. Sophia has already mentioned Radical Asia as a potential co-lead.
+
+Sophia: Karan, just for your information — Radical Asia would be ready to participate at 200K alongside Utopia, if the studio comes in. That's been pre-cleared by our IC.
+
+Karan: Good to know. Adi, here is where we are. We are interested. The next step is a partner review on Monday — Alina presents you and the company to me and the Radical Asia leadership team. If that lands well, we send a term sheet within a week. The check would be 250,000 USD from us against 8% common, standard for our cohort, co-leading with Radical Asia at 200K. Total round 450K from this group, which leaves you 50K to fill from existing relationships or angel investors. You'd start M1 in early July.
+
+Adi: Understood. Monday partner review, term sheet by next Friday if it lands.
+
+Alina: One thing to flag — and this is important. Until we have signed, we will not reference your company externally. You will see us talk about an Indonesian cold-chain thesis, or a Global South AI thesis, but we will not name you or SegarChain in any LinkedIn post, press conversation, or public commentary. That is a hard rule for us. It protects you if the deal does not close, and it protects us from announcing relationships that are not yet real.
+
+Adi: Appreciated. I'll do the same on my side. No press, no announcements, nothing on LinkedIn.
+
+Karan: Good. One more practical question — your data scientist, the part-time one. What's the risk that someone else hires her full-time before we close?
+
+Adi: Medium. She's at Tokopedia, comfortable, but she's been approached by two US companies in the past three months. We have a verbal understanding that she joins us when we close the round. I trust her, but I would not bet my company on a verbal understanding indefinitely.
+
+Karan: Understood. That's the kind of thing we'd want to convert to written intent before the term sheet stage. Worth talking to her this week.
+
+Adi: I'll set up a conversation tomorrow.
+
+Alina: One last question from me. What scares you about the next twelve months?
+
+Adi: Two things. First, that we scale the sales motion too fast and the model accuracy degrades because we don't have time to retrain on new geographies inside Indonesia. Sumatra is different from Java, climatologically and infrastructure-wise. We need to take the expansion seriously. Second, that I underestimate the operating complexity of being a founder. I've been an operator at Gojek but never a founder before. The CEO job is different.
+
+Karan: Both are honest answers. The second one is harder, and that's where Co-Build will help most. We'll be in touch by Tuesday with the partner review outcome. Thanks, Adi.
+
+Adi: Thank you both. And Sophia, thank you for the introduction.
+
+Sophia: Of course. Talk soon.
+
+Alina: Take care, Adi. Safe rest of your week.

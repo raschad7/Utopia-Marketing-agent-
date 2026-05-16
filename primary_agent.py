@@ -108,6 +108,12 @@ def build_skip_brief(gate_result: dict) -> dict:
             "meeting_date": gate_result.get("meeting_date", ""),
             "attendees": gate_result.get("attendees", []),
         },
+        "meeting_summary": {
+            "tldr": gate_result.get("summary_tldr", ""),
+            "topics_discussed": [],
+            "decisions_made": [],
+            "action_items": [],
+        },
         "meeting_assessment": {
             "is_publishable": False,
             "reasoning": gate_result.get("reasoning", ""),
